@@ -1,6 +1,10 @@
 # tips_calculator
 
 A new Flutter project.
+![screenshot1](https://github.com/Sani1189/tips_calculator/assets/76781606/eabbd5d9-a502-48bb-bdf1-7f0084b6879a)
+![Uploading Screenshot_2.png…]()
+
+
 
 ## Getting Started
 
